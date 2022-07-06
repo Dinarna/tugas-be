@@ -98,7 +98,7 @@ run:
 ```
 npm start
 ```
-## ⛏️ Built Using <a name = "built_using"></a>
+## Built Using
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Mongoose](https://mongoosejs.com/) - Database ODM
